@@ -18,4 +18,5 @@ dotnet run
 ## Swagger
 https://localhost:{PUERTO BACKEND}/swagger/index.html
 
-https://i.postimg.cc/50Sv68nQ/image.png
+
+[![image.png](https://i.postimg.cc/50Sv68nQ/image.png)](https://i.postimg.cc/50Sv68nQ)
