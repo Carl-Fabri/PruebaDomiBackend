@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnicaDomiruth", "PruebaTecnicaDomiruth.csproj", "{B59D6A08-7A74-427E-8912-787F5BAB957E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "..\DB\DB.csproj", "{1EC8D484-CED6-4B87-A653-C9C109A3DFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59D6A08-7A74-427E-8912-787F5BAB957E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59D6A08-7A74-427E-8912-787F5BAB957E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59D6A08-7A74-427E-8912-787F5BAB957E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59D6A08-7A74-427E-8912-787F5BAB957E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EC8D484-CED6-4B87-A653-C9C109A3DFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC8D484-CED6-4B87-A653-C9C109A3DFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC8D484-CED6-4B87-A653-C9C109A3DFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC8D484-CED6-4B87-A653-C9C109A3DFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9183A17B-7FCB-464F-B62F-BFF54845E7E7}
+	EndGlobalSection
+EndGlobal
