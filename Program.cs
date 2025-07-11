@@ -1,6 +1,5 @@
 using DB;
 using DB.Models;
-using DB.Configuration;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
@@ -29,7 +28,6 @@ builder.Services.AddScoped<PeliculaService>();
 builder.Services.AddScoped<FuncionService>();
 builder.Services.AddScoped<ClienteService>();
 builder.Services.AddScoped<ReservaService>();
-
 
 //Implementing CORS
 builder.Services.AddCors(options =>
